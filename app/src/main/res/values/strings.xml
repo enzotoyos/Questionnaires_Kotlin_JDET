@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Quizz</string>
+    <string name="jouer">Jouer</string>
+    <string name="scores">Scores</string>
+    <string name="tu_n_as_pas_encore_jou">Tu n\'as pas encore joué</string>
+</resources>
