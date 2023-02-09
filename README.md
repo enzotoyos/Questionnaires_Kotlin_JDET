@@ -1,8 +1,24 @@
-# Questionnaires_Kotlin_JDET
-Questionnaire Android avec Kotlin
+# Best-Quizz APP
 
-<img width="420" alt="Screenshot 2023-02-09 at 13 58 10" src="https://user-images.githubusercontent.com/71874844/217819421-abec93a9-9ca0-4276-8dde-fb0d3f727be3.png">
+## 1. Spécification
 
-<img width="420" alt="Screenshot 2023-02-09 at 13 58 17" src="https://user-images.githubusercontent.com/71874844/217819371-b9843916-02ca-4056-9fc4-1b231ee312e3.png">
+- Quizz
+- Possibilité de voir son dernier score
+- Gestion complète du Dark Mode (En cours)
 
-Pour utiliser vous avez juste à télcharger le dossier et le lancer dans android studio
+## 2. Installation
+
+```
+git clone https://github.com/enzotoyos/Quizz
+launch App With Kotlin
+```
+
+## 3. Wireframe
+
+<table>
+<tr>
+  <td><img width="200" alt="Screenshot 2023-02-09 at 13 58 10" src="https://user-images.githubusercontent.com/71874844/217830346-5eae1c70-8bf8-4b17-a2ec-df3b0dfbdcc6.png"></td>
+  <td><img width="200" alt="Screenshot 2023-02-09 at 13 58 17" src="https://user-images.githubusercontent.com/71874844/217830460-a4b9cb41-e72e-4c48-8371-896adb7d19d6.png">
+</td>
+  </tr>
+</table>
